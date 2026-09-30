@@ -16,7 +16,7 @@ Reemplaza procesos manuales en Excel y WhatsApp por un sistema centralizado que 
 - ✅ Georreferenciación precisa con conversión UTM ↔ WGS84
 - ✅ Control de estados y rechazos con historial completo
 
-<img width="1328" height="620" alt="image" src="https://github.com/user-attachments/assets/7b004c1b-437d-4f84-bd07-faee6c87508f" />
+<img width="1328" height="620" alt="image" src="assets/vista-general.png" />
 
 
 ---
@@ -53,7 +53,7 @@ AngloAmerican → Besalco → Linkapsis → LlayLlay → AngloAmerican
 - **Zoom automático** a bounding box de puntos activos
 - **Popup interactivos** con datos técnicos en tiempo real
 
-<img width="1328" height="620" alt="image" src="https://github.com/user-attachments/assets/e37819f7-c8df-42fa-8531-97438095c885" />
+<img width="1328" height="620" alt="image" src="assets/mapa-pks-mapbox.png" />
 
 
 ### 3. Módulo de Revanchas (Mediciones de Seguridad)
@@ -257,4 +257,3 @@ Para información detallada del proyecto, consulta la [documentación completa](
 Este proyecto fue desarrollado como solución interna para AngloAmerican. El código se comparte con fines de portafolio profesional.
 
 ---
-<<<<<<< HEAD
